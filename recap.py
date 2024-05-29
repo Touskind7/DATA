@@ -1,27 +1,12 @@
-liste = ['janvier', "fevrier", "mars", "avril", "mai", "juin", "juillet"]
-#AJOUTER
-liste.append('AOUT')
-#supprimer
-liste.remove("mai")
-#copier
-liste.copy()
-liste.insert(1, "septembre")
-liste.reverse()
-liste.sort()
-#print(liste.count("mars")
+#
 
+#ajouter 
 
-print(liste)
-liste.reverse(
-)
-print(liste)
+import random
 
-for index, mois in enumerate(liste):
-    print(index, mois)
-    if mois != "fevrier":
-        print(mois)
-
-
-
-while len(liste[4]) == len(liste):
-    print(liste)
+nombre_aleatoire  = random.randint(0, 100)
+print(nombre_aleatoire  )
+recuperer_nombre =[nombre_aleatoire]
+for nombre in recuperer_nombre():
+    recuperer_nombre.append()
+    
